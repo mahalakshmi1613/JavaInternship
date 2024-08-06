@@ -1,4 +1,7 @@
 Welcome to Git Hub
+
 hello Everyone Good morning.!!!
+
 Java is an popular programming language..
-typed in local repo
+typed in local repo.
+Typed in Remote Repo.
