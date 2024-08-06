@@ -1,4 +1,5 @@
 Welcome to Git Hub
-hello veryone[D[D[D[D[D[D[De[C[C[C[C[C[C[D[D[D[D[D[Dv[C[C[C[C[C....!!! Good morning.!!!
+hello Everyone...Good morning.!!!
 Java is an popular programming language..
-typed in local repo
+typed in local repo.
+Typed in Remote Repo.
